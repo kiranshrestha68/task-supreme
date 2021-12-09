@@ -1,0 +1,17 @@
+
+.rating:hover {
+  color: #ffa41c;
+}
+
+
+.bg-dark {
+  background: rgb(35,32,32);
+background: linear-gradient(1802deg, rgba(35,32,32,1) 0%, rgba(244,117,33,1) 84%, rgba(244,117,33,1) 100%)!important;
+}
+
+
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(255 255 255 / 86%);
+}
+
